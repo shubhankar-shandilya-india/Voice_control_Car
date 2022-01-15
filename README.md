@@ -11,5 +11,6 @@ Demonstration Video details :
 👉🏻00:52 - 01:26 - Working with a special and unique 'Garba Dance' command.
 
 ![Car Picture 1](https://user-images.githubusercontent.com/78155393/149631528-34348ad0-fccc-46ad-8102-651ba5070fb4.jpg)
+![Car Picture 2](https://user-images.githubusercontent.com/78155393/149631977-ceb2704e-de2d-40d6-82d9-fc3c6f23e3d6.jpg)
 
 
