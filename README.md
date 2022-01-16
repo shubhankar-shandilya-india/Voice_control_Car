@@ -2,7 +2,9 @@
 
 Presenting before you 'The R Car' : A voice control car made by me.
 
-Brief description : It is made with the help of Arduino UNO, L298N Motor driver and HC05 Bluetooth module, Two BO motor, Two 9V battery, Two wheels, One 360 degree rotation wheel, and some basis material like jumper wires etc.
+Brief description :
+
+It is made with the help of Arduino UNO, L298N Motor driver and HC05 Bluetooth module, Two BO motor, Two 9V battery, Two wheels, One 360 degree rotation wheel, and some basis material like jumper wires etc.
 
 Demonstration Video details :
 
